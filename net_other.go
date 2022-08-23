@@ -7,7 +7,6 @@
 package netpoll
 
 import (
-	"errors"
 	"net"
 	"sync/atomic"
 )
